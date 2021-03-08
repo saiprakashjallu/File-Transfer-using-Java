@@ -18,35 +18,24 @@
 * ERROR 404
 * Team Members
   * Member 01
-    * Name – SAI PRAKASH
-    * Email – jp2986@bennett.edu.in
+    * Name â€“ SAI PRAKASH
+    * Email â€“ jp2986@bennett.edu.in
     * Roll Number - e17cse104
-    * Role -code part
-    * Contribution – My contribution is to prepare a code and preparing ppts.
+    * Role -Back-end
+    * Contribution â€“ My contribution is to prepare a Main code.
   * Member 02
-    * Name – G.N.S. ABHIRAM
-    * Email – ga6662@bennett.edu.in
+    * Name â€“ G.N.S. ABHIRAM
+    * Email â€“ ga6662@bennett.edu.in
     * Roll Number - e17cse050
-    * Role – code and presentation
-    * Contribution – My contribution is backend and work on doing all the ppts required.
-  * Member 03
-    * Name – SUSHMA GUPTA
+    * Role â€“ Presentations 
+    * Contribution â€“ My contribution is to make all the ppts required.
     * Email - ts2753@bennett.edu.in
-    * Roll Number - e17cse021
-    * Role - code part
-    * Contribution - My contribution is to prepare a code for this project,
   * Member 04
-    * Name – AMIT KUMAR
+    * Name â€“ AMIT KUMAR
     * Email - ak1809@bennett.edu.in
     * Roll Number - e17cse048
-    * Role – backend
-    * Contribution – My contribution is to prepare the code.
-  * Member 05
-    * Name – SATYA KUNDA
-    * Email – kg4309@bennett.edu.in 
-    * Roll Number - e17cse183
-    * Role – presentations and backend
-    * Contribution – My contribution is to help in creating ppts and in backend.
+    * Role â€“ Front-end
+    * Contribution â€“ My contribution is to prepare the code.
  
 ***
 
