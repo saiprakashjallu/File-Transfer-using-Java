@@ -7,11 +7,6 @@ package filetransfer;
 import java.net.*;
 import java.io.*;
 
-
-/**
- *
- * @author amitkumar
- */
 public class Server {
     
     public String path;
