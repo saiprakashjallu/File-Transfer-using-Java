@@ -7,10 +7,6 @@ package filetransfer;
 import java.net.*;
 import java.io.*;
 
-/**
- *
- * @author rajveerbeerda
- */
 public class Client {
     
     public String ip;
